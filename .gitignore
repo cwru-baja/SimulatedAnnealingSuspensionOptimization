@@ -1,0 +1,6 @@
+*.txt
+/Build
+*.json
+.DS_Store
+
+!CMakeLists.txt
